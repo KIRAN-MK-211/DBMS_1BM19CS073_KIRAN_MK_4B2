@@ -1,0 +1,1 @@
+This contains lab report for DBMS Lab exam 2.
